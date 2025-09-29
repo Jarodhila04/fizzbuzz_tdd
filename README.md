@@ -7,3 +7,6 @@
 2. **Handle multiples of 3**: If a number is a multiple of 3, it should return `"Fizz"`.
 3. **Handle multiples of 5**: If a number is a multiple of 5, it should return `"Buzz"`.
 4. **Handle multiples of both 3 and 5**: If a number is a multiple of both 3 and 5, it should return `"FizzBuzz"`.
+
+## Steps:
+- First, I wrote a failing test for regular numbers (not divisible by 3 or 5).
