@@ -1,1 +1,9 @@
 # fizzbuzz_tdd
+
+# FizzBuzz TDD Implementation
+
+## To-Do List:
+1. **Handle regular numbers**: If a number is not a multiple of 3 or 5, it should return the number itself as a string.
+2. **Handle multiples of 3**: If a number is a multiple of 3, it should return `"Fizz"`.
+3. **Handle multiples of 5**: If a number is a multiple of 5, it should return `"Buzz"`.
+4. **Handle multiples of both 3 and 5**: If a number is a multiple of both 3 and 5, it should return `"FizzBuzz"`.
